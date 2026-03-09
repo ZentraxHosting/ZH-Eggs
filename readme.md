@@ -1,5 +1,5 @@
 # 🥚 BH-Eggs
-Custom Pterodactyl eggs for BonerHosting.
+Custom Pterodactyl eggs for Zentrax Hosting.
 
 This repository contains custom eggs built for use with Pterodactyl Panel.
 
@@ -56,4 +56,4 @@ Monitors selected nodes and websites and posts status updates to a Discord chann
 
 ---
 
-Made for BonerHosting.
+Made for Zentrax Hosting.
